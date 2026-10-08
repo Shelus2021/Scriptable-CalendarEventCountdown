@@ -1254,4 +1254,3 @@ function estimateTextWidth(text){
 function getRelativeLabelWidth(text){
 	return Math.min(78,Math.max(18,Math.ceil(estimateTextWidth(text))));
 }
-

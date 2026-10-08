@@ -37,4 +37,3 @@ This project, including its source code, documentation, and preview images unles
 The summaries above are provided for convenience and do not replace or modify the complete PolyForm Noncommercial License 1.0.0 terms linked above. If a summary conflicts with the complete license, the complete license controls.
 
 以上摘要仅用于帮助理解，不替代或修改链接中的 PolyForm Noncommercial License 1.0.0 完整条款。摘要与完整条款不一致时，以完整条款为准。
-

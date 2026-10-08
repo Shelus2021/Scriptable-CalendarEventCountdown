@@ -175,4 +175,3 @@ John’s Birthday → Sb’s Birthday
 Copyright © Shelus2021.
 
 本项目采用 [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0)。允许为非商业目的使用、修改和再分发，但必须保留原作者 Shelus2021 的署名及许可信息；商业使用需事先取得作者书面许可。完整条款见 [`LICENSE.md`](./LICENSE.md)。
-

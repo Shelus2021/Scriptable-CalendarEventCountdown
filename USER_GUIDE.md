@@ -195,4 +195,3 @@ The month view reads events for every day in its complete calendar grid. More ca
 Copyright © Shelus2021.
 
 You may use, modify, and redistribute this project for noncommercial purposes, provided that the attribution to Shelus2021 and the license information are retained. Selling it, including it in a paid product or service, or otherwise using it commercially requires prior written permission from the author. See [`LICENSE.md`](./LICENSE.md) for the complete terms.
-
